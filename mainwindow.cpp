@@ -10,7 +10,7 @@
  * ****************************
  *
  * Author: Alyssa Weber
- * Matrikelnummer: 13751510
+ * 
  *
  *
  * *** RESEARCH QUESTION:
