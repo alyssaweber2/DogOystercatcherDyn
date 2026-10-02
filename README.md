@@ -1,4 +1,4 @@
-# DogOystercatcherDyn - A spatially-explicit individual-based model 
+# DogOystercatcherDyn - A Spatially-Explicit Individual-Based Model 
 
 A simulation exploring how on-leash vs. off-leash dogs affect Eurasian Oystercatcher populations in urban green spaces.
 
